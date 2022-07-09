@@ -1,6 +1,6 @@
 # DS Project
 
--- 1 - Hands-on Lab_ Complete the Data Collection API Lab
+..1 - Hands-on Lab_ Complete the Data Collection API Lab
 --2 - Hands-on Lab_ Data Collection with Web Scraping
 3 - Hands-On Lab_ Data Wrangling
 4 - Hands-on Lab Complete the EDA with SQL
